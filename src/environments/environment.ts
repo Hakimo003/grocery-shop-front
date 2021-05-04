@@ -5,7 +5,7 @@ import { KeycloakConfig, KeycloakInitOptions, KeycloakOptions } from 'keycloak-a
 
 // Add here your keycloak configuration information
 const keycloakConfig: KeycloakConfig = {
-  url: 'https://login.qualitadd.com/auth',
+  url: 'https://keycloak.qualitadd.com/auth',
   realm: 'demo-hakim',
   clientId: 'my-app'
 };
