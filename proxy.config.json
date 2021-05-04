@@ -1,0 +1,7 @@
+{
+    "/shop/api/*": {
+        "target": "https://grocery-shop-back.herokuapp.com",
+        "logLevel": "debug",
+        "changeOrigin": true
+    }
+}
