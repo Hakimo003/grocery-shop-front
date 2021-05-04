@@ -5,7 +5,7 @@ import { KeycloakConfig, KeycloakInitOptions, KeycloakOptions } from 'keycloak-a
 
 // Add here your keycloak configuration information
 const keycloakConfig: KeycloakConfig = {
-  url: 'https://keycloak.qualitadd.com/auth',
+  url: 'https://grocery-shop-keycloak.herokuapp.com/auth',
   realm: 'demo-hakim',
   clientId: 'my-app'
 };
